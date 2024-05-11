@@ -1,0 +1,1 @@
+This app is used to describe the current weather location in your city as well as other cities you searched . It has 5 panels grantAcess Tab,weatherInfo Tab,search Tab,loading Tab and error Tab.
